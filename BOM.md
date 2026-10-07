@@ -17,10 +17,9 @@
 | [Gateron Hot-swap Socket](https://stackskb.com/product-category/parts/hotswap-sockets/) | Hot-swappable switch mounting | 10 | $0.12 | $1.20 | [StacksKB](https://stackskb.com/product-category/parts/hotswap-sockets/) |
 | [WS2812B RGB LED 1M](https://hubtronics.in/neopixel-ws2811-led-strip-india?search=WS2812B%20RGB%20LED&sort=p.price&order=ASC) | Addressable RGB lighting | 1 | $1.96 | $1.96 | [Hubtronics](https://hubtronics.in/neopixel-ws2811-led-strip-india?search=WS2812B%20RGB%20LED&sort=p.price&order=ASC) |
 | [10kΩ potentiometer](https://robu.in/?s=10k+potentiometer&post_type=product) | Rotary input | 1 | $0.33 | $0.33 | [Robu](https://robu.in/?s=10k+potentiometer&post_type=product) |
-| [330Ω resistor](https://robu.in/?s=330+ohm+resistor&post_type=product) | LED data-line resistor | 1 | $0.01 | $0.01 | [Robu](https://robu.in/?s=330+ohm+resistor&post_type=product) |
 | [Cherry MX Compatible Keycap Black](https://rajivelectronics.com/product/cherry-mx-compatible-keycap-black-mechanical-keyboard-keycap) | (Mechanical Keyboard Keycap) | 10 | $0.09 | $0.90 | [Rajiv electronics](https://rajivelectronics.com/product/cherry-mx-compatible-keycap-black-mechanical-keyboard-keycap) |
-| **Parts subtotal** | — | — | — | **$14.98** | — |
+| **Parts subtotal** | — | — | — | **$14.97** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$14.98** | — |
+| **Total** | — | — | — | **$14.97** | — |
 
-$15.02 left of the tier's funding.
+$15.03 left of the tier's funding.
