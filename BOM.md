@@ -15,12 +15,11 @@
 | [XIAO RP2350](https://robu.in/product/seeedstudio-xiao-rp2350-raspberry-pi-rp2350/?gad_source=4&gad_campaignid=17413441824&gbraid=0AAAAADvLFWcnYQm52HiW8SbaR3IgxwlMd&gclid=CjwKCAjwlY3WBhANEiwApsNrLVCr6oslwtFdAfuWwuKZExMkLEeGWFoa4HFJxoYj0k4GCa10kxtdJRoCS44QAvD_BwE) | Main microcontroller | 1 | $9.00 | $9.00 | [Robu.in](https://robu.in/product/seeedstudio-xiao-rp2350-raspberry-pi-rp2350/?gad_source=4&gad_campaignid=17413441824&gbraid=0AAAAADvLFWcnYQm52HiW8SbaR3IgxwlMd&gclid=CjwKCAjwlY3WBhANEiwApsNrLVCr6oslwtFdAfuWwuKZExMkLEeGWFoa4HFJxoYj0k4GCa10kxtdJRoCS44QAvD_BwE) |
 | [Gateron KS-3X1 Milky Yellow Pro pack of 10](https://stackskb.com/store/gateron-ks-3x1p-pro-yellows/) | Mechanical switches | 1 | $2.00 | $2.00 | [StacksKB](https://stackskb.com/store/gateron-ks-3x1p-pro-yellows/) |
 | [Gateron Hot-swap Socket](https://stackskb.com/product-category/parts/hotswap-sockets/) | Hot-swappable switch mounting | 10 | $0.15 | $1.50 | [StacksKB](https://stackskb.com/product-category/parts/hotswap-sockets/) |
-| [SK6812MINI-E reverse-mount RGB pack of 10](https://www.adafruit.com/product/4960?srsltid=AU7gw4XO4YNyFgi-RwiPQ9wiPffSe-NIRDt-QouXlf6pgCJwfYghx3yT) | Addressable RGB lighting | 1 | $3.00 | $3.00 | [Adafruit](https://www.adafruit.com/product/4960?srsltid=AU7gw4XO4YNyFgi-RwiPQ9wiPffSe-NIRDt-QouXlf6pgCJwfYghx3yT) |
 | [10kΩ potentiometer](https://robu.in/?s=10k+potentiometer&post_type=product) | Rotary input | 1 | $0.50 | $0.50 | [Robu](https://robu.in/?s=10k+potentiometer&post_type=product) |
 | [Cherry MX Compatible Keycap Black](https://rajivelectronics.com/product/cherry-mx-compatible-keycap-black-mechanical-keyboard-keycap) | (Mechanical Keyboard Keycap) | 10 | $0.10 | $1.00 | [Rajiv electronics](https://rajivelectronics.com/product/cherry-mx-compatible-keycap-black-mechanical-keyboard-keycap) |
 | [GoldenMorning 0.91 inch 128x32 Blue OLED Display Module with I2C/IIC Serial Interface](https://robu.in/product/0-91-inch-128x32-i2c-iic-serial-blue-oled-lcd-display-module/) | Display | 1 | $2.20 | $2.20 | [Robu.in](https://robu.in/product/0-91-inch-128x32-i2c-iic-serial-blue-oled-lcd-display-module/) |
-| **Parts subtotal** | — | — | — | **$19.20** | — |
+| **Parts subtotal** | — | — | — | **$16.20** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$19.20** | — |
+| **Total** | — | — | — | **$16.20** | — |
 
-$10.80 left of the tier's funding.
+$13.80 left of the tier's funding.
